@@ -1,2 +1,2 @@
 # DataBase-Final-Project
-Data Base course final project
+Database course final project
