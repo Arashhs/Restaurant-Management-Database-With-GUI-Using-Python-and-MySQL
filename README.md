@@ -5,7 +5,8 @@ project of my Database Design course
 a GUI app to connect with the database and add/delete/edit records and tables, and execute
 queries on the database
 
-Application in action: (Click to open in full size on a new tab)
+Application in action:
+<br/>
 <a href="featured.gif" target="_blank">
 ![Restaurant Management Database © Arash Hajisafi](featured.gif)
 </a>
