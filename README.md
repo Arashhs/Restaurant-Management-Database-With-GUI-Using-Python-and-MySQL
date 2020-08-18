@@ -6,7 +6,7 @@ a GUI app to connect with the database and add/delete/edit records and tables, a
 queries on the database
 
 Application in action:
-<br/>
+<br/><br/>
 <a href="featured.gif" target="_blank">
 ![Restaurant Management Database © Arash Hajisafi](featured.gif)
 </a>
