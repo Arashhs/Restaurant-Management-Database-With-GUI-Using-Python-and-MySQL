@@ -1,5 +1,5 @@
 # Restaurant Management Database
-- A database system for restaurant management using Python Tkinter and MySQL for the final
+- A database system for restaurant management using Python, Tkinter library, and MySQL for the final
 project of my Database Design course
 - Applied ER and normalization techniques to design the database and adopted Python to build
 a GUI app to connect with the database and add/delete/edit records and tables, and execute
